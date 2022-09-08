@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bank of America
+- 🔭 I’m currently working on Git Hub
 - 🌱 I’m currently learning Web Applications
 - 👯 I’m looking to collaborate on Computer Science
 - 🤔 I’m looking for help with some one
